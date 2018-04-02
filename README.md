@@ -1,7 +1,11 @@
 # PROYECTO: Styleguide de componentes en React
-  v.1.0     
-=============================
 
+Crear un styleguide de componentes para Laboratoria utilizando el nuevo branding, pudiendo proponer nuevos elementos o mejoras a los elementos existentes. 
+
+![captura](https://user-images.githubusercontent.com/32303709/38215942-a979cef8-369f-11e8-98c7-993cc07fc98a.jpg)
+
+## Desarrollado para
+[Laboratoria](http://laboratoria.la)
 
 
 ## Realizado por:
