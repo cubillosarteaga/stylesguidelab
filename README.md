@@ -1,4 +1,4 @@
-# PROYECTO: Styleguide de componentes en React
+# Styleguide de componentes en React
 
 Crear un styleguide de componentes para Laboratoria utilizando el nuevo branding, pudiendo proponer nuevos elementos o mejoras a los elementos existentes. 
 
