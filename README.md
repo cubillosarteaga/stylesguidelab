@@ -65,7 +65,7 @@ Crear una Librería con guia de estilos inicialmente con 5 componentes en React 
 #MAPA DE CONTENIDO STYLEGUIDE:
 ![fireshot capture 031 - hackaton-2 - google drive_ - https___drive google com_drive_fol](https://user-images.githubusercontent.com/32303709/37829424-adbced9e-2e7d-11e8-9d3b-fbb87e993f3e.jpg)
 
-#REALIZACIÓN DE SKETCHES:
+## REALIZACIÓN DE SKETCHES:
 
 Luego se realizó el Sketches 
 ![20180323_023621_resized](https://user-images.githubusercontent.com/32303709/37829447-c40300c0-2e7d-11e8-88b0-9ebbbba43be8.jpg)
