@@ -62,7 +62,7 @@ El producto lo validamos realizando encuestas a Front-End Developer para entende
 
 Crear una Librería con guia de estilos inicialmente con 5 componentes en React ,siguiendo el Branding de Laboratoria , al tener los datos de la investigación se llegó a la ideación iniciamos con un mapa de contenido con el Mpv .
 
-#MAPA DE CONTENIDO STYLEGUIDE:
+## MAPA DE CONTENIDO STYLEGUIDE:
 ![fireshot capture 031 - hackaton-2 - google drive_ - https___drive google com_drive_fol](https://user-images.githubusercontent.com/32303709/37829424-adbced9e-2e7d-11e8-9d3b-fbb87e993f3e.jpg)
 
 ## REALIZACIÓN DE SKETCHES:
